@@ -10,7 +10,7 @@ from aiogram import Bot, Dispatcher, executor, types
 
 OPENWEATHER_API_KEY = "c28b8f13af900c5c45364126a91d34ae"
 
-API_TOKEN = '8080099614:AAFOAc0FL3_-Lpb-G0q2e_acIQv7Tr20dQg'
+API_TOKEN = '7522501900:AAGgD8U6A0YXdpRlnvxJJ9ZVU3EvYZUOB38'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
